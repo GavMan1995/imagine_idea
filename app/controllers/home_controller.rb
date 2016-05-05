@@ -1,5 +1,6 @@
 class HomeController < ApplicationController
   def index
+    @info = Idea.all
   end
 
   def contact

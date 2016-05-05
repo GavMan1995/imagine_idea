@@ -1,3 +1,27 @@
-// Place all the styles related to the home controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  background-color: #333; 
+}
+
+.landing-form {
+  background-color: #232326;
+  height: 600px;
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.imagine-idea-tag {
+  color: #33C3F0;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.idea {
+  height: 544px; 
+}
+
+.navbar {
+  font-family: 'Work Sans', sans-serif;
+}
+
+.landing-row {
+  padding-top: 150px; 
+}
